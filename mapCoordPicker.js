@@ -54,6 +54,19 @@ var translations = {
 		'Selection cleared!': 'Selection cleared!',
 		'Selected villages:': 'Selected villages:',
 	},
+	pt_BR: {
+		'Map Coord Picker': 'Map Coord Picker',
+		Help: 'Help',
+		'Script must be executed from the <a href="/game.php?screen=map" class="btn">Map</a>':
+			'Script must be executed from the <a href="/game.php?screen=map" class="btn">Map</a>',
+		'Script is already loaded and running!': 'Script is already loaded and running!',
+		Reset: 'Resetar',
+		Copy: 'Copiar',
+		'Copied!': 'Copied!',
+		'Nothing to be copied!': 'Nothing to be copied!',
+		'Selection cleared!': 'Selection cleared!',
+		'Selected villages:': 'Selected villages:',
+	},
 	ro_RO: {
 		'Map Coord Picker': 'Map Coord Picker',
 		Help: 'Ajutor',
